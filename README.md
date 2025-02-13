@@ -1,4 +1,4 @@
-# WEB3-CONVERTER
+# Web3ify
 AI-Powered Web3 Converter
 *Description*
 This project automates the process of converting traditional web projects into Web3-enabled applications using AI. Users provide a GitHub repository link containing their project, and the system:
