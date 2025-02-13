@@ -1,0 +1,15 @@
+{
+  "name": "web3ify",
+  "version": "1.0.0",
+  "description": "AI-Powered Web3 Converter\r *Description*\r This project automates the process of converting traditional web projects into Web3-enabled applications using AI. Users provide a GitHub repository link containing their project, and the system:\r 1. Fetches the repository files using the GitHub API.\r 2. Uses AI to modify the code, integrating Web3 features (such as MetaMask authentication and blockchain interactions).\r 3. Pushes the updated Web3 project back to the same GitHub repository.\r This tool simplifies the transition to Web3 by automating the integration of blockchain-based features without requiring manual coding.\r *Use Case*\r This tool is ideal for who want to quickly upgrade their existing web projects to Web3 without manual implementation. It streamlines the process of integrating blockchain authentication, smart contracts, and decentralized storage.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
