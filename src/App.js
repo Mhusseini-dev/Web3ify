@@ -128,6 +128,7 @@ function App() {
                 </Link>
             </motion.section>
         </div>
+        
     );
 }
 
