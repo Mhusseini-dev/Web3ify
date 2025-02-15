@@ -1,6 +1,7 @@
 import React, { useState } from "react";
+import Web3 from "web3";
 
-const Web3 = () => {
+const Web33 = () => {
       const [repoUrl, setRepoUrl] = useState('');
       const [suggestions, setSuggestions] = useState('');
       const [isLoading, setIsLoading] = useState(false);
@@ -75,4 +76,4 @@ const Web3 = () => {
 
 }
 
-export default Web3
+export default Web33

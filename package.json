@@ -12,7 +12,8 @@
     "react-player": "^2.16.0",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
-    "react-scroll": "^1.9.2"
+    "react-scroll": "^1.9.2",
+    "web3": "^4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
